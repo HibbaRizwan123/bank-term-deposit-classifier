@@ -19,10 +19,11 @@
 - F1-Score: 0.50 → balance between precision & recall
 
 ### Manual Evaluation
-Linear Classifier:
+🔹 Linear Classifier:
 - Accuracy: 88.21%
 - Fails to capture positive cases → precision & recall undefined
-Logistic Regression:
+
+🔹 Logistic Regression:
 - Accuracy: 75.91%
 - Precision: 30% (correct predictions out of all predicted “Yes”)
 - Recall: 75% (captures most actual positives)
